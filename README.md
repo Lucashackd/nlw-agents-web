@@ -35,7 +35,7 @@ Siga os passos abaixo para executar o projeto localmente.
 **1. Clone o repositório:**
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Lucashackd/nlw-agents-web.git
 cd nlw-agents/web
 ```
 
